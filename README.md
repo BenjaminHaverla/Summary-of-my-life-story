@@ -15,6 +15,8 @@ My way to filmmaking was strange. When I was young I played a lot of computer ga
 
 In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin through Erasmus+. During this period, I'm also preparing a new animated music video.
 
+-------------------------------------------------------------
+
 # BACK TO THE...
 ## [Main Page (English for designers)](https://github.com/BenjaminHaverla/English-for-designers.git)
 ## [ABOUT ME](https://github.com/BenjaminHaverla/Main-about-me.git)
