@@ -1,5 +1,7 @@
 # The Summary of My Life Story
 
+![Nature in the city Martin](Images/Martin.png)
+
 My name is Benjamín Haverla, and I live in Martin, Slovakia. I studied Information and Digital Technologies at [Private Secondary Technical School](https://ssosta.edupage.org) in Poprad, founded by the Tatra Academy n. o. Currently, I am studying at the [University of Creative Communication](https://www.vskk.cz/cz/) in Prague. I specialize in the Design Motion Copy department, which focuses on Animation and VFX.
 
 My way to filmmaking was strange. When I was young I played a lot of computer games. Later at the age of 12, I suffered from epilepsy and I had to stop playing computer games. I lost something that I loved. But after a bad period of my life, my mum brought the first iPad 4 to our family. I was curious and I found there the app iMovie. iMovie was my first video editing software. So this is the point where my film career started. At the age of 12. I asked my friends to cooperate and we created a lot of film series, however as we were little they were not that professional. Later, thanks to my teacher I became successful in film competitions for youth and children in Slovakia. As an actor, I cooperated on advertising for an ISIC company in Slovakia.
